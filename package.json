@@ -1,7 +1,7 @@
 {
   "name": "sorting_visualization",
   "version": "0.1.0",
-  "homepage": "https://Harishsargar.github.io/Algorithm_visualizer",
+  "homepage": "https://Harishsargar.github.io/Algorithm_visualizer/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
