@@ -1,29 +1,3 @@
-// import './App.css';
-// import React from 'react';
-// import SortingVisualizer from './sorting_visualizer/sortingVisualizer'; 
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <SortingVisualizer/>
-//     </div>
-//   );
-// }
-
-// export default App;
-
-// sdsff
-// dfsdf
-// sdsfffsd
-// <FileSystemWritableFileStreamsdf>dfsdfdsf
-//   sddsdsfds
-//   failfds
-//   f
-//   dfsdfdsfdsf
-//   s
-// </FileSystemWritableFileStreamsdf>
-
-
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import SortingVisualizer from './sorting_visualizer/sortingVisualizer';
