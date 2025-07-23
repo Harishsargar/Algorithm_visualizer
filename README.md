@@ -2,7 +2,7 @@
 
 Welcome to the **Sorting Visualizer** – an interactive web tool that helps you understand and visualize how popular sorting algorithms work in real-time.
 
-![Demo Screenshot](./screenshot.png)
+![Demo Screenshot](public/image.png)
 
 ## 🚀 Live Demo
 Check out the live app here: [Sorting Visualizer](https://algorithm-visualizer-ten-gamma.vercel.app/sorting)
@@ -24,6 +24,6 @@ Check out the live app here: [Sorting Visualizer](https://algorithm-visualizer-t
 
 ## 📸 Screenshot
 
-![App Preview](./screenshot.png)
+![App Preview](public/mergesort.png)
 
 ---
